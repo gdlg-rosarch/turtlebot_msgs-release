@@ -1,0 +1,21 @@
+ros-indigo-turtlebot-msgs (2.2.1-0trusty) trusty; urgency=high
+
+  * remove laptop charge status message #2 <https://github.com/turtlebot/turtlebot_msgs/issues/2>
+  * LaptopChargeStatus moved here from turtlebot stack.
+  * Contributors: Daniel Stonier, Jihoon Lee
+
+ -- Jorge Santos <jorge@rnd.yujinrobot.com>  Sun, 05 Apr 2015 15:00:00 -0000
+
+ros-indigo-turtlebot-msgs (2.2.0-0trusty) trusty; urgency=high
+
+  * Changelog added
+
+ -- Jorge Santos <jorge@rnd.yujinrobot.com>  Thu, 29 Aug 2013 15:00:00 -0000
+
+ros-indigo-turtlebot-msgs (2.1.0-0trusty) trusty; urgency=high
+
+  * First release.
+
+ -- Jorge Santos <jorge@rnd.yujinrobot.com>  Thu, 15 Aug 2013 15:00:00 -0000
+
+
