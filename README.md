@@ -1,3 +1,26 @@
+## turtlebot_msgs (kinetic) - 2.2.1-0
+
+The packages in the `turtlebot_msgs` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release -t kinetic -r kinetic --new-track turtlebot_msgs` on `Tue, 24 May 2016 02:37:28 -0000`
+
+The `turtlebot_msgs` package was released.
+
+Version of package(s) in repository `turtlebot_msgs`:
+
+- upstream repository: https://github.com/turtlebot/turtlebot_msgs.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `2.2.1-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.21`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.4`
+- rosdistro version: `0.4.7`
+- vcstools version: `0.1.38`
+
+
 ## turtlebot_msgs (indigo) - 2.2.1-0
 
 The packages in the `turtlebot_msgs` repository were released into the `indigo` distro by running `/usr/bin/bloom-release turtlebot_msgs -t indigo -r indigo` on `Mon, 06 Apr 2015 09:04:42 -0000`
