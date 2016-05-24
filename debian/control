@@ -1,0 +1,12 @@
+Source: ros-kinetic-turtlebot-msgs
+Section: misc
+Priority: extra
+Maintainer: Jorge Santos <jorge@rnd.yujinrobot.com>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin, ros-kinetic-message-generation, ros-kinetic-sensor-msgs, ros-kinetic-std-msgs, ros-kinetic-std-srvs
+Homepage: http://ros.org/wiki/turtlebot_msgs
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-turtlebot-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-message-runtime, ros-kinetic-sensor-msgs, ros-kinetic-std-msgs, ros-kinetic-std-srvs
+Description: Turtlebot messages, services and actions
